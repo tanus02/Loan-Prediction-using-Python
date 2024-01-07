@@ -1,2 +1,2 @@
-# Loan-Prediction-using-Python
+# Loan Prediction using Python
 Applied logistic regression with accuracy metric 
