@@ -1,3 +1,3 @@
 # Loan Prediction using Python
-Applied logistic regression with accuracy metric
+Simple logistic regression with accuracy metric
 
